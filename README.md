@@ -26,7 +26,6 @@ As someone who values both music and maintaining an active lifestyle, I am intri
   - List of songs played, along with the artist details
   - Duration of listening sessions
   - Timestamp for each song played
-  - Genres associated with the songs
 
 ### Apple Health Step Count Data
 - **Coverage Period:** One year of daily records.
@@ -42,16 +41,16 @@ As someone who values both music and maintaining an active lifestyle, I am intri
 
 1. **Exploratory Data Analysis (EDA):**
    - Study daily step count trends to identify active and less active periods.
-   - Investigate Spotify usage patterns, including popular genres and listening durations.
+   - Investigate Spotify usage patterns, listening durations.
    - Generate visual representations to highlight key observations in both datasets.
 
 2. **Correlation Studies:**
-   - Analyze how variations in daily step counts might correspond to changes in music preferences or listening habits.
-   - Explore the relationship between high activity days and specific types of music.
+   - Analyze how variations in daily step counts might correspond to changes in listening habits.
+   - Explore the relationship between high activity days and listening habits
 
 3. **Machine Learning Implementation:**
    - Develop clustering models to categorize music preferences based on activity levels.
-   - Create predictive models to forecast music choices using physical activity data.
+    
 
 4. **Insights and Reporting:**
    - Summarize the results in a clear and comprehensive report.
